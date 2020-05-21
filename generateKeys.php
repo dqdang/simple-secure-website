@@ -37,5 +37,4 @@ openssl_public_decrypt($crypted, $decrypted, $pubkey);
 echo $privkey;
 echo "<br />";
 echo $pubkey;
-
 ?>
